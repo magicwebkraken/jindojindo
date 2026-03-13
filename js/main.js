@@ -16,7 +16,7 @@
       var t = document.createElement("input");
       (t.style.position = "fixed"),
         (t.style.left = "-9999px"),
-        (t.value = "0xComingSoon"),
+        (t.value = "0x826e8022Ed28c164Bbdde40f508553a546B5a56e"),
         document.body.appendChild(t),
         t.select(),
         document.execCommand("copy"),
